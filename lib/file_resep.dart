@@ -2,7 +2,7 @@ import 'package:aplikasi_resep_masakan/models/recipe_model.dart';
 
 var recipes = [
   Recipe(
-      title: 'Oseng teri kentang.',
+      title: 'Oseng Teri Kentang.',
       chef: 'Arnold Poernomo',
       imageUrl:
           'https://cdn-brilio-net.akamaized.net/webp/news/2023/03/19/251286/1983118-1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg',
@@ -13,11 +13,11 @@ var recipes = [
       ingredients: '3 buah kentang\n'
           '150 gr ikan teri asin\n'
           'Garam, gula, dan kaldu bubuk secukupnya\n '
-          '7 siung bawang merah\n'
-          '3 siung bawang putih\n'
-          '8 buah cabai rawit merah\n'
-          '2 batang daun bawang\n'
-          '5 buah cabai merah',
+          '7 Siung bawang merah\n'
+          '3 Siung bawang putih\n'
+          '8 Buah cabai rawit merah\n'
+          '2 Batang daun bawang\n'
+          '5 Buah cabai merah',
       steps:
           'Kupas kentang, lalu potong dadu dan goreng hingga matang. Sisihkan.\n'
           'kemudian bilas ikan teri lalu goreng hingga matang. Sisihkan.\n'
@@ -36,11 +36,11 @@ var recipes = [
     ingredients: '500 gr ayam, potong menjadi 4 bagian\n'
         'Air untuk merebus ayam secukupnya\n'
         '2 sdm bubuk fibercreme larutkan dengan 200 ml air\n'
-        '7 butir bawang Putih\n'
-        '3 ruas kunyit\n'
+        '7 Butir bawang Putih\n'
+        '3 Ruas kunyit\n'
         '1 Ruas jahe\n'
-        '3 siung bawang merah\n'
-        '1 siung kemiri\n'
+        '3 Siung bawang merah\n'
+        '1 Siung kemiri\n'
         '1 sdt ketumba\n'
         '2-3 sdt garam\n'
         'Garam dan gula secukupnya',
@@ -60,11 +60,11 @@ var recipes = [
     videoUrl: 'https://youtu.be/AxZSe-_pMxc',
     isFavorite: false,
     ingredients: '1 ikat daun singkong\n'
-        '1 bungkus tahu putih, hancurkan\n'
-        '1 butir telur, kocok lepas\n'
+        '1 Bungkus tahu putih, hancurkan\n'
+        '1 Butir telur, kocok lepas\n'
         'Garam dan kaldu bubuk\n'
-        '2 siung bawang putih\n'
-        '2 siung bawang merah\n'
+        '2 Siung bawang putih\n'
+        '2 Siung bawang merah\n'
         '1/4 sdt merica\n'
         'Ketumbar secukupnya',
     steps:
